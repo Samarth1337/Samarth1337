@@ -1,6 +1,6 @@
 # Hello! I'm Samarth Saxena 👋 
 
-### Data Scientist | AI Engineer | Full-Stack Builder
+### Data Scientist | AI Engineer | Full-Stack Builder | Software Engineer
 [![Portfolio](https://img.shields.io/badge/Portfolio-samsaxena.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.samsaxena.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samarth_Saxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-saxena-/)
 
@@ -16,16 +16,17 @@ I don’t just train models; I build the infrastructure, the pipelines, and the 
 
 ---
 
-## 📈 Activity & Impact
-### Contribution Graph
-![Samarth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth1337&theme=react-dark&hide_border=true)
+## 📈 Annual Activity
+![Snake animation](https://github.com/Samarth1337/Samarth1337/blob/output/github-contribution-grid-snake.svg)
 
-| **GitHub Metrics** | **Top Languages** |
+---
+
+## 📊 GitHub Metrics
+| **Overall Stats** | **Most Used Languages** |
 | :--- | :--- |
-| ![Samarth's Stats](https://github-readme-stats.vercel.app/api?username=Samarth1337&show_icons=true&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Samarth1337&layout=compact&theme=dark&hide_border=true) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Samarth1337&show_icons=true&theme=dark&border_radius=10) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Samarth1337&layout=compact&theme=dark&border_radius=10) |
 
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samarth1337&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samarth1337&theme=dark)
 
 ---
 
