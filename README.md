@@ -19,17 +19,6 @@ I don’t just train models; I build the infrastructure, the pipelines, and the 
 ## 📈 Annual Activity
 ![Snake animation](https://github.com/Samarth1337/Samarth1337/blob/output/github-contribution-grid-snake.svg)
 
----
-
-## 📊 GitHub Metrics
-| **Overall Stats** | **Most Used Languages** |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Samarth1337&show_icons=true&theme=dark&border_radius=10) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Samarth1337&layout=compact&theme=dark&border_radius=10) |
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samarth1337&theme=dark)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Core Languages
@@ -117,4 +106,3 @@ Built a layer-by-layer neural network using only **NumPy**, implementing backpro
 * **Portfolio:** [samsaxena.me](https://www.samsaxena.me)
 
 ---
-*“I build with the intent to create value. Let's get in touch and build together!”*
