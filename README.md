@@ -16,12 +16,16 @@ I don’t just train models; I build the infrastructure, the pipelines, and the 
 
 ---
 
-## 📊 GitHub Stats & Trophies
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=Samarth1337&theme=radical&column=7)
+## 📈 Activity & Impact
+### Contribution Graph
+![Samarth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Samarth1337&theme=react-dark&hide_border=true)
 
 | **GitHub Metrics** | **Top Languages** |
 | :--- | :--- |
-| ![Samarth's Stats](https://github-readme-stats.vercel.app/api?username=Samarth1337&show_icons=true&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth1337&layout=compact&theme=dark&hide_border=true) |
+| ![Samarth's Stats](https://github-readme-stats.vercel.app/api?username=Samarth1337&show_icons=true&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Samarth1337&layout=compact&theme=dark&hide_border=true) |
+
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samarth1337&theme=dark&hide_border=true)
 
 ---
 
