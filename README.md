@@ -9,10 +9,10 @@
 ## 📖 About Me
 I don’t just train models; I build the infrastructure, the pipelines, and the user-facing products that make them useful. I operate with a **"ship-it" attitude**, bridging the gap between a model in a Jupyter notebook and one thriving in the chaos of production.
 
-* 🎓 **Education:** Master of Science in Applied Data Science from **USC** (GPA: 3.9/4.0) and B.Tech in Computer Science from **Manipal University Jaipur** (CGPA: 9.17/10.0).
-* 🎮 **Currently:** Data Scientist at **Cloud9 Esports**, where I architected a Generative AI Content Ecosystem that automated 100% of short-form script drafting, viral clips extraction from long-form content and multilingual captioning in 33+ languages.
-* 🛠️ **Philosophy:** Complexity is often just a lack of initiative. I pride myself on being the person who unblocks the team by building the solution from scratch.
-* 🎯 **Current Focus:** Build, build and oh, build.
+*  **Education:** Master of Science in Applied Data Science from **USC** (GPA: 3.9/4.0) and B.Tech in Computer Science from **Manipal University Jaipur** (CGPA: 9.17/10.0).
+*  **Currently:** Data Scientist at **Cloud9 Esports**, where I architected a Generative AI Content Ecosystem that automated 100% of short-form script drafting, viral clips extraction from long-form content and multilingual captioning in 33+ languages.
+*  **Philosophy:** Complexity is often just a lack of initiative. I pride myself on being the person who unblocks the team by building the solution from scratch.
+*  **Current Focus:** Build, build and oh, build.
 
 ---
 
