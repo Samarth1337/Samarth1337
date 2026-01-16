@@ -1,12 +1,12 @@
 # Hello! I'm Samarth Saxena 👋 
 
-### Data Scientist | AI Engineer | Full-Stack Builder | Software Engineer
+### Data Scientist | AI Engineer | Machine Learning Engineer Full-Stack Builder | Software Engineer |
 [![Portfolio](https://img.shields.io/badge/Portfolio-samsaxena.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samsaxena.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samarth_Saxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-saxena-/)
 
 ---
 
-## 📖 About Me
+## About Me
 I don’t just train models; I build the infrastructure, the pipelines, and the user-facing products that make them useful. I operate with a **"ship-it" attitude**, bridging the gap between a model in a Jupyter notebook and one thriving in the chaos of production.
 
 *  **Education:** Master of Science in Applied Data Science from **USC** (GPA: 3.9/4.0) and B.Tech in Computer Science from **Manipal University Jaipur** (CGPA: 9.17/10.0).
@@ -16,12 +16,12 @@ I don’t just train models; I build the infrastructure, the pipelines, and the 
 
 ---
 
-## 📈 Annual Activity
+## Annual Activity
 ![Snake animation](https://github.com/Samarth1337/Samarth1337/blob/output/github-contribution-grid-snake.svg)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming & Core Languages
+### Programming & Core Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -32,7 +32,7 @@ I don’t just train models; I build the infrastructure, the pipelines, and the 
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🧠 AI, LLMs & Machine Learning
+### AI, LLMs & Machine Learning
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Llama2](https://img.shields.io/badge/Llama_2-0467DF?style=for-the-badge&logo=meta&logoColor=white)
@@ -46,7 +46,7 @@ I don’t just train models; I build the infrastructure, the pipelines, and the 
 ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 🏗️ Full-Stack, SWE & DevOps
+### Full-Stack, SWE & DevOps
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST--API-0052CC?style=for-the-badge&logo=json-web-tokens&logoColor=white)
@@ -56,7 +56,7 @@ I don’t just train models; I build the infrastructure, the pipelines, and the 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit%20%26%20Integration-Testing-brightgreen?style=for-the-badge)
 
-### ☁️ Cloud, Data & Infrastructure
+### Cloud, Data & Infrastructure
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -67,7 +67,7 @@ I don’t just train models; I build the infrastructure, the pipelines, and the 
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📚 Libraries & Specialized Tools
+### Libraries & Specialized Tools
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -80,7 +80,7 @@ I don’t just train models; I build the infrastructure, the pipelines, and the 
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### [Nuclear and Aviation Safety using NLP](https://github.com/Samarth1337/nuclear-aviation-safety-research)
 **Award: Best Project & Best Data Science Developer (CKIDS DataFest ‘23 USC)**
@@ -100,7 +100,7 @@ Built a layer-by-layer neural network using only **NumPy**, implementing backpro
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 * **Email:** [samarth.saxena1337@gmail.com](mailto:samarth.saxena1337@gmail.com)
 * **LinkedIn:** [linkedin.com/in/samarth-saxena-/](https://www.linkedin.com/in/samarth-saxena-/)
 * **Portfolio:** [samsaxena.vercel.app](https://samsaxena.vercel.app)
