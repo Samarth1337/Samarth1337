@@ -1,6 +1,6 @@
 # Hello! I'm Samarth Saxena 👋 
 
-### Data Scientist | AI Engineer | Machine Learning Engineer Full-Stack Builder | Software Engineer |
+### Data Scientist | AI Engineer | Machine Learning Engineer | Full-Stack Builder | Software Engineer |
 [![Portfolio](https://img.shields.io/badge/Portfolio-samsaxena.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samsaxena.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samarth_Saxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-saxena-/)
 
