@@ -7,10 +7,11 @@
 ---
 
 ## About Me
-I don’t just train models; I build the infrastructure, the pipelines, and the user-facing products that make them useful. I operate with a **"ship-it" attitude**, bridging the gap between a model in a Jupyter notebook and one thriving in the chaos of production.
+Currently building AI/ML tools and sciencing the shi* out of data for Cloud9! 
+I don’t just train models, I build the infrastructure, the pipelines, and the user-facing products that make them useful. I operate with a **"ship-it" attitude**, bridging the gap between a model in a Jupyter notebook and one thriving in the chaos of production.
 
 *  **Education:** Master of Science in Applied Data Science from **USC** (GPA: 3.9/4.0) and B.Tech in Computer Science from **Manipal University Jaipur** (CGPA: 9.17/10.0).
-*  **Currently:** Data Scientist at **Cloud9 Esports**, where I act as a team-of-one and develop AI solutions for the company, driving revenue, accelarating growth and creating impact.
+*  **Currently:** Data Scientist at **Cloud9 Esports**, where I act as a team-of-one and develop AI solutions for the company, driving revenue, accelarating growth and creating impact through AI/ML tools.
 *  **Philosophy:** Complexity is often just a lack of initiative. I pride myself on being the person who unblocks the team by building the solutions from scratch.
 *  **Current Focus:** Build, build and build some more.
 
@@ -81,6 +82,9 @@ I don’t just train models; I build the infrastructure, the pipelines, and the 
 ---
 
 ## Featured Projects
+
+### [LLM Systems and Evals - Inference Engineering](https://github.com/Samarth1337/llm-systems-and-eval)
+An end-to-end pipeline for serving, evaluating, stress-testing, guardrailing, and improving a locally-hosted LLM (Mistral-7b) using Ollama.
 
 ### [Nuclear and Aviation Safety using NLP](https://github.com/Samarth1337/nuclear-aviation-safety-research)
 **Award: Best Project & Best Data Science Developer (CKIDS DataFest ‘23 USC)**
