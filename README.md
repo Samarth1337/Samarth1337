@@ -86,6 +86,9 @@ I don’t just train models, I build the infrastructure, the pipelines, and the 
 ### [LLM Systems and Evals - Inference Engineering](https://github.com/Samarth1337/llm-systems-and-eval)
 An end-to-end pipeline for serving, evaluating, stress-testing, guardrailing, and improving a locally-hosted LLM (Mistral-7b) using Ollama.
 
+### [Cascading Retrieval Pipeline - Search Engine](https://github.com/Samarth1337/search-engine)
+A 5-stage cascade retrieval pipeline (vector ANN -> structured filter -> LLM hard-gate -> LLM soft-rank) over Turbopuffer + Voyage + OpenAI. Worked example ranks candidates across 10 domain-specific job rubrics.
+
 ### [Nuclear and Aviation Safety using NLP](https://github.com/Samarth1337/nuclear-aviation-safety-research)
 **Award: Best Project & Best Data Science Developer (CKIDS DataFest ‘23 USC)**
 Automated the outlining of safety trait violations in Nuclear Plant reports using a GuidedLDA model that learns from domain-specific "seed words".
