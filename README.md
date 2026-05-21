@@ -18,7 +18,7 @@ I don’t just train models, I build the infrastructure, the pipelines, and the 
 ---
 
 ## Annual Activity
-![Snake animation](https://github.com/Samarth1337/Samarth1337/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Samarth1337/Samarth1337/blob/output/github-contribution-grid-snake.svg)
 
 ## Tech Stack
 
