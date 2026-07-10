@@ -1,17 +1,17 @@
 # Hello! I'm Samarth Saxena 👋 
 
-### Data Scientist | AI Engineer | Machine Learning Engineer | Full-Stack Builder | Software Engineer |
+### Data Scientist | Software Engineer | AI Engineer
 [![Portfolio](https://img.shields.io/badge/Portfolio-samsaxena.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samsaxena.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samarth_Saxena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-saxena-/)
 
 ---
 
 ## About Me
-Currently building AI/ML tools and sciencing the shi* out of data for Cloud9! 
+Most recently, I was building AI/ML tools and sciencing the shi* out of data for Cloud9! 
 I don’t just train models, I build the infrastructure, the pipelines, and the user-facing products that make them useful. I operate with a **"ship-it" attitude**, bridging the gap between a model in a Jupyter notebook and one thriving in the chaos of production.
 
 *  **Education:** Master of Science in Applied Data Science from **USC** (GPA: 3.9/4.0) and B.Tech in Computer Science from **Manipal University Jaipur** (CGPA: 9.17/10.0).
-*  **Currently:** Data Scientist at **Cloud9 Esports**, where I act as a team-of-one and develop AI solutions for the company, driving revenue, accelarating growth and creating impact through AI/ML tools.
+*  **Previously:** Data Scientist at **Cloud9 Esports**, where I was acting as a team-of-one and develop AI solutions for the company, driving revenue, accelarating growth and creating impact through AI/ML tools.
 *  **Philosophy:** Complexity is often just a lack of initiative. I pride myself on being the person who unblocks the team by building the solutions from scratch.
 *  **Current Focus:** Build, build and build some more.
 
